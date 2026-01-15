@@ -31,10 +31,10 @@ docker-compose.yml # Entorno local de ejecución
 
 ## 📖 Documentación
 
-- [Propuesta de internalización](demo-funcional/docs/propuesta_internalizacion.md)
-- [Flujo funcional](demo-funcional/docs/flujo_funcional.md)
-- [Roles y permisos](demo-funcional/docs/roles_permisos.md)
-- [Evidencia visual](demo-funcional/screenshots/README.md)
+- [Propuesta de internalización](01-docs/01_propuesta_internalizacion.md)
+- [Flujo funcional](01-docs/02_flujo_funcional.md)
+- [Roles y permisos](01-docs/03_roles_permisos.md)
+- [Evidencia visual](02-screenshots/README.md)
 
 ---
 
