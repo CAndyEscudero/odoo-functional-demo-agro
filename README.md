@@ -1,5 +1,4 @@
-# Odoo – Functional Demo (Agro)
-
+# Odoo – Functional Demo
 Demo funcional desarrollada en **Odoo Community** con foco en
 procesos operativos reales del sector agroindustrial.
 
