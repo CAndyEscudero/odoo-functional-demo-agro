@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="mi_primer_modulo_menu_root" name="Mi Módulo" sequence="10"/>
+
+    <menuitem id="mi_primer_modulo_menu_items"
+              name="Items"
+              parent="mi_primer_modulo_menu_root"
+              action="mi_primer_modulo_action_items"
+              sequence="10"/>
+</odoo>
